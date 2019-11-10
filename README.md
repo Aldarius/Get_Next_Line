@@ -1,2 +1,2 @@
 # Get_Next_Line
-Read next line
+The second projects of "School 21". Read next line
